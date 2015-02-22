@@ -1,0 +1,3 @@
+[submodule "gdi"]
+	path = gdi
+	url = git@github.com:tcmacdonald/intro-to-javascript.git
