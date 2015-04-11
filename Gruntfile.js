@@ -37,6 +37,7 @@ module.exports = function(grunt) {
 			},
 			themes: {
 				files: {
+					'gdi/css/gdilight.css': 'gdi/scss/gdilight.scss',
 					'gdi/css/gdidefault.css': 'gdi/scss/gdidefault.scss',
 					'css/theme/black.css': 'css/theme/source/black.scss',
 					'css/theme/white.css': 'css/theme/source/white.scss',
